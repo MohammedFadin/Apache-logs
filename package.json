@@ -1,0 +1,31 @@
+{
+  "name": "Apache-logs",
+  "version": "1.0.0",
+  "description": "Generate useful statistics with Apache access.log using a NodeJS script",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MohammedFadin/Apache-logs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "apache",
+    "access.logs",
+    "http",
+    "nodejs"
+  ],
+  "author": "Mohammed Fadin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammedFadin/Apache-logs/issues"
+  },
+  "homepage": "https://github.com/MohammedFadin/Apache-logs",
+  "dependencies": {
+    "path": "^0.4.9",
+    "split": "^0.3.0",
+    "through": "^2.3.6"
+  }
+}
